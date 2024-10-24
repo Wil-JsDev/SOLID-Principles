@@ -1,0 +1,2 @@
+﻿## Open/Closed Principle (OCP)
+El principio abierto/cerrado establece que las clases deben estar abiertas para extensión, pero cerradas para modificación. En una API REST, esto se traduce en la capacidad de extender funcionalidades sin modificar el código existente, lo que permite añadir nuevas características de manera segura.
